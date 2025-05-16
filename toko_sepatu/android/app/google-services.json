@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962360214821",
+    "project_id": "product-sepatu",
+    "storage_bucket": "product-sepatu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962360214821:android:db860af603c941828986cc",
+        "android_client_info": {
+          "package_name": "com.toko.sepatu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONB3N38hLwF4d4XD-KOU3G0KPDRbLaVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
